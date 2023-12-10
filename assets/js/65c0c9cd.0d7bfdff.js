@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkzerotogether=self.webpackChunkzerotogether||[]).push([[8516],{7598:e=>{e.exports=JSON.parse('{"label":"weekly","permalink":"/weekly/tags/weekly","allTagsPath":"/weekly/tags","count":5,"unlisted":false}')}}]);
