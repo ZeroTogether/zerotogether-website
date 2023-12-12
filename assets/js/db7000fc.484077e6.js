@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkzerotogether=self.webpackChunkzerotogether||[]).push([[9841],{38851:e=>{e.exports=JSON.parse('{"permalink":"/events/tags/\u6d3b\u52a8/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":11,"previousPage":"/events/tags/\u6d3b\u52a8","blogDescription":"Blog","blogTitle":"\u6d3b\u52a8"}')}}]);
