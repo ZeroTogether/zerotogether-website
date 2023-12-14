@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkzerotogether=self.webpackChunkzerotogether||[]).push([[4446],{41078:e=>{e.exports=JSON.parse('[{"label":"\u80fd\u6e90","permalink":"/classroom/tags/\u80fd\u6e90","count":1},{"label":"\u5851\u6599","permalink":"/classroom/tags/\u5851\u6599","count":1}]')}}]);
