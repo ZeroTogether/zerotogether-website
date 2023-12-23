@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkzerotogether=self.webpackChunkzerotogether||[]).push([[7444],{44590:e=>{e.exports=JSON.parse('[{"label":"\u7eaa\u5f55\u7247","permalink":"/movies/tags/\u7eaa\u5f55\u7247","count":41},{"label":"\u5851\u6599","permalink":"/movies/tags/\u5851\u6599","count":2}]')}}]);
